@@ -1,0 +1,91 @@
+{
+ // Use IntelliSense to learn about possible attributes.
+ // Hover to view descriptions of existing attributes.
+ // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+ "version": "0.2.0",
+ "configurations": [
+  {
+   "type": "java",
+   "name": "Current File",
+   "request": "launch",
+   "mainClass": "${file}"
+  },
+  {
+   "type": "java",
+   "name": "program",
+   "request": "launch",
+   "mainClass": "program",
+   "projectName": "Java Programming_7de81293"
+  },
+  {
+   "type": "java",
+   "name": "program1",
+   "request": "launch",
+   "mainClass": "program1",
+   "projectName": "Java Programming_7de81293"
+  },
+  {
+   "type": "java",
+   "name": "program10",
+   "request": "launch",
+   "mainClass": "program10",
+   "projectName": "Java Programming_7de81293"
+  },
+  {
+   "type": "java",
+   "name": "program2",
+   "request": "launch",
+   "mainClass": "program2",
+   "projectName": "Java Programming_7de81293"
+  },
+  {
+   "type": "java",
+   "name": "program3",
+   "request": "launch",
+   "mainClass": "program3",
+   "projectName": "Java Programming_7de81293"
+  },
+  {
+   "type": "java",
+   "name": "program4",
+   "request": "launch",
+   "mainClass": "program4",
+   "projectName": "Java Programming_7de81293"
+  },
+  {
+   "type": "java",
+   "name": "program5",
+   "request": "launch",
+   "mainClass": "program5",
+   "projectName": "Java Programming_7de81293"
+  },
+  {
+   "type": "java",
+   "name": "program6",
+   "request": "launch",
+   "mainClass": "program6",
+   "projectName": "Java Programming_7de81293"
+  },
+  {
+   "type": "java",
+   "name": "program7",
+   "request": "launch",
+   "mainClass": "program7",
+   "projectName": "Java Programming_7de81293"
+  },
+  {
+   "type": "java",
+   "name": "program8",
+   "request": "launch",
+   "mainClass": "program8",
+   "projectName": "Java Programming_7de81293"
+  },
+  {
+   "type": "java",
+   "name": "program9",
+   "request": "launch",
+   "mainClass": "program9",
+   "projectName": "Java Programming_7de81293"
+  }
+ ]
+}
