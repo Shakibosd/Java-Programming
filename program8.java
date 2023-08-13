@@ -8,16 +8,14 @@ public class program8 {
        System.out.println("\n");
 
        Scanner input = new Scanner(System.in);
-       double base, height,area;
+       double base, height;
 
        System.out.printf("Enter base : ");
        base = input.nextDouble();
        
+       
        System.out.printf("Enter hight : ");
        height = input.nextDouble();
-
-       area = 0.5 * base * height;
-      System.out.println("Area Of Triangle : "+area);
  }
  
 }
