@@ -15,7 +15,7 @@ public class program4 {
 
             System.out.println("Number = "+number);
 
-
       }   
   }
+
 
