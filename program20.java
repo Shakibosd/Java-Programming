@@ -8,7 +8,7 @@ public class program20 {
             System.out.println("\n");
 
              Scanner input = new Scanner(System.in);
-            char ch;
+             char ch;
 
             System.out.printf("Enter Any Letter :  ");
             ch = input.next().charAt(0); 
