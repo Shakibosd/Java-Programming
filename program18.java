@@ -14,9 +14,13 @@ public class program18 {
             System.out.printf("Enter Any Year :  ");
             year = input.nextInt();
 
-            if(year%12==0){
+            if(year%400==0){
              System.out.println("Leap Year");
             }
+            else if(year%4==0 && year%100!=0)
+            {
+             System.out.println("Leap Year");
+            }  
             else{
              System.out.println("No Leap Year");
             }
