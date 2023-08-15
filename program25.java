@@ -17,6 +17,6 @@ public class program25 {
      System.out.println("Asin Value = "+Math.asin(a));
      System.out.println("Acos Value = "+Math.acos(a)); 
      System.out.println("PI = "+Math.PI);
-     System.out.println("Cos Value = "+Math.cos(a));
+     System.out.println("Cos Value = p"+Math.cos(a));
   }
 }
