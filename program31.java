@@ -15,7 +15,10 @@ public class program31 {
        }
        System.out.println("The Sum Is = "+sum);*/
 
-       
+
+
+     
+      /*   
        Scanner input = new Scanner(System.in);
        int m,n;
        int sum = 0;
@@ -30,6 +33,55 @@ public class program31 {
        for(int i = m; i <= n; i++){
          sum = sum + i;
        }
+       System.out.println("The Sum Is : "+sum);*/
+
+
+
+
+          
+     /*  Scanner input = new Scanner(System.in);
+       int m,n;
+       int sum = 0;
+
+       System.out.printf("Enter Initial Number :  ");
+       m = input.nextInt();
+
+       
+       System.out.printf("Enter Final Number :  ");
+       n = input.nextInt();
+
+       for(int i = m; i <= n; i++){
+
+         if(i%2==0){
+           sum = sum + i;
+           System.out.printf("The Sum Is : "+i);
+         }
+       }
+       System.out.println();
+       System.out.println("The Sum Is : "+sum);*/
+
+
+
+
+       Scanner input = new Scanner(System.in);
+       int m,n;
+       int sum = 0;
+
+       System.out.printf("Enter Initial Number :  ");
+       m = input.nextInt();
+
+       
+       System.out.printf("Enter Final Number :  ");
+       n = input.nextInt();
+
+       for(int i = m; i <= n; i++){
+
+         if(i%2!=0){
+           sum = sum + i;
+           System.out.printf("The Sum Is : "+i);
+         }
+       }
+       System.out.println();
        System.out.println("The Sum Is : "+sum);
  }   
 }
