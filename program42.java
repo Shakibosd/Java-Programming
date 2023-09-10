@@ -6,7 +6,7 @@ public class program42 {
  public static void main(String[] args) {
   System.out.println();
 
-  /* int number, sum=0, r, temp;
+  int number, sum=0, r, temp;
   Scanner input = new Scanner(System.in);
   System.out.printf("Enter Any Number :  ");
   number = input.nextInt();
@@ -23,11 +23,6 @@ public class program42 {
  }
  else{
   System.out.println("Not Armstrong");
- }*/
-
-
- for(int i=1; i<=1000; i++){
-  System.out.println("Labid");
  }
  } 
 }
